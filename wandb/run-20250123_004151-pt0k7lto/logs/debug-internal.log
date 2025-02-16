@@ -1,0 +1,7 @@
+{"time":"2025-01-23T00:41:51.5105879+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_004151-pt0k7lto\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:41:51.6485484+02:00","level":"INFO","msg":"created new stream","id":"pt0k7lto"}
+{"time":"2025-01-23T00:41:51.6485484+02:00","level":"INFO","msg":"stream: started","id":"pt0k7lto"}
+{"time":"2025-01-23T00:41:51.6485484+02:00","level":"INFO","msg":"handler: started","stream_id":"pt0k7lto"}
+{"time":"2025-01-23T00:41:51.6485484+02:00","level":"INFO","msg":"sender: started","stream_id":"pt0k7lto"}
+{"time":"2025-01-23T00:41:51.6490571+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pt0k7lto"}
+{"time":"2025-01-23T00:41:52.0828893+02:00","level":"INFO","msg":"Starting system monitor"}

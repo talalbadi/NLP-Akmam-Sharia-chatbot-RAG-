@@ -1,0 +1,16 @@
+{"time":"2025-01-23T00:49:29.508003+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_004929-zt4sdxy6\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:49:29.6376239+02:00","level":"INFO","msg":"created new stream","id":"zt4sdxy6"}
+{"time":"2025-01-23T00:49:29.6376239+02:00","level":"INFO","msg":"stream: started","id":"zt4sdxy6"}
+{"time":"2025-01-23T00:49:29.6376239+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"zt4sdxy6"}
+{"time":"2025-01-23T00:49:29.6381391+02:00","level":"INFO","msg":"sender: started","stream_id":"zt4sdxy6"}
+{"time":"2025-01-23T00:49:29.6376239+02:00","level":"INFO","msg":"handler: started","stream_id":"zt4sdxy6"}
+{"time":"2025-01-23T00:49:30.1978382+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T00:50:11.3958814+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T00:50:11.3973098+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T00:50:12.4055985+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vector_store","runtime_seconds":3.425991,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":2.1874549,"progress":"3.8MB/15.9MB"}]},{"desc":"uploading output.log","runtime_seconds":0.7737426,"progress":"21.4KB/21.4KB"}],"total_operations":2}}
+{"time":"2025-01-23T00:50:18.9086434+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T00:50:20.4326896+02:00","level":"INFO","msg":"stream: closing","id":"zt4sdxy6"}
+{"time":"2025-01-23T00:50:20.4326896+02:00","level":"INFO","msg":"handler: closed","stream_id":"zt4sdxy6"}
+{"time":"2025-01-23T00:50:20.4326896+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zt4sdxy6"}
+{"time":"2025-01-23T00:50:20.4326896+02:00","level":"INFO","msg":"sender: closed","stream_id":"zt4sdxy6"}
+{"time":"2025-01-23T00:50:20.4332563+02:00","level":"INFO","msg":"stream: closed","id":"zt4sdxy6"}

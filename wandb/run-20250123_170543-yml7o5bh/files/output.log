@@ -1,0 +1,63 @@
+Processed 5 'كتاب' batches.
+Ingesting batch 1/5...
+Total document sections: 301
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py:82: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding_function = OpenAIEmbeddings(openai_api_key=api_key)
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py:90: LangChainDeprecationWarning: Since Chroma 0.4.x the manual persistence method is no longer supported as docs are automatically persisted.
+  vector_store.persist()
+Batch 1 stored successfully.
+Ingesting batch 2/5...
+Total document sections: 636
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py", line 196, in <module>
+    main()
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py", line 176, in main
+    ingest_data_in_batches(
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py", line 100, in ingest_data_in_batches
+    vector_store = create_vector_store(split_documents, vector_store_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py", line 85, in create_vector_store
+    vector_store = Chroma.from_documents(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\vectorstores\chroma.py", line 887, in from_documents
+    return cls.from_texts(
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\vectorstores\chroma.py", line 843, in from_texts
+    chroma_collection.add_texts(
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\vectorstores\chroma.py", line 277, in add_texts
+    embeddings = self._embedding_function.embed_documents(texts)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\embeddings\openai.py", line 671, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\embeddings\openai.py", line 497, in _get_len_safe_embeddings
+    response = embed_with_retry(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\embeddings\openai.py", line 120, in embed_with_retry
+    return embeddings.client.create(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\resources\embeddings.py", line 124, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 960, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1049, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1098, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1049, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1098, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1064, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-ada-002 in organization org-TtOUE8cHsQ0oGNVFRX1ZolvG on tokens per min (TPM): Limit 1000000, Requested 1468382. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+[0m

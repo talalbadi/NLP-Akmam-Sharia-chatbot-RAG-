@@ -1,0 +1,7 @@
+{"time":"2025-01-23T00:21:46.5971889+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_002146-1flatyvp\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:21:46.7185199+02:00","level":"INFO","msg":"created new stream","id":"1flatyvp"}
+{"time":"2025-01-23T00:21:46.7185199+02:00","level":"INFO","msg":"stream: started","id":"1flatyvp"}
+{"time":"2025-01-23T00:21:46.7185199+02:00","level":"INFO","msg":"handler: started","stream_id":"1flatyvp"}
+{"time":"2025-01-23T00:21:46.7185199+02:00","level":"INFO","msg":"sender: started","stream_id":"1flatyvp"}
+{"time":"2025-01-23T00:21:46.7185199+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"1flatyvp"}
+{"time":"2025-01-23T00:21:47.385216+02:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,14 @@
+{"time":"2025-01-19T23:43:33.8103307+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\offline-run-20250119_234333-8w7bixnm\\logs\\debug-core.log"}
+{"time":"2025-01-19T23:43:34.0727764+02:00","level":"INFO","msg":"created new stream","id":"8w7bixnm"}
+{"time":"2025-01-19T23:43:34.0727764+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"8w7bixnm"}
+{"time":"2025-01-19T23:43:34.0727764+02:00","level":"INFO","msg":"stream: started","id":"8w7bixnm"}
+{"time":"2025-01-19T23:43:34.0727764+02:00","level":"INFO","msg":"sender: started","stream_id":"8w7bixnm"}
+{"time":"2025-01-19T23:43:34.0727764+02:00","level":"INFO","msg":"handler: started","stream_id":"8w7bixnm"}
+{"time":"2025-01-19T23:43:34.0786019+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-19T23:44:03.7339772+02:00","level":"INFO","msg":"stream: closing","id":"8w7bixnm"}
+{"time":"2025-01-19T23:44:03.7339772+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-19T23:44:03.7345288+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-19T23:44:03.7345288+02:00","level":"INFO","msg":"handler: closed","stream_id":"8w7bixnm"}
+{"time":"2025-01-19T23:44:03.7345288+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8w7bixnm"}
+{"time":"2025-01-19T23:44:03.7345288+02:00","level":"INFO","msg":"sender: closed","stream_id":"8w7bixnm"}
+{"time":"2025-01-19T23:44:03.7350553+02:00","level":"INFO","msg":"stream: closed","id":"8w7bixnm"}

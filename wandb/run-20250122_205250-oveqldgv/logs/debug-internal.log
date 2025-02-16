@@ -1,0 +1,15 @@
+{"time":"2025-01-22T20:52:50.7534041+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250122_205250-oveqldgv\\logs\\debug-core.log"}
+{"time":"2025-01-22T20:52:50.8622963+02:00","level":"INFO","msg":"created new stream","id":"oveqldgv"}
+{"time":"2025-01-22T20:52:50.8622963+02:00","level":"INFO","msg":"stream: started","id":"oveqldgv"}
+{"time":"2025-01-22T20:52:50.8622963+02:00","level":"INFO","msg":"handler: started","stream_id":"oveqldgv"}
+{"time":"2025-01-22T20:52:50.8622963+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"oveqldgv"}
+{"time":"2025-01-22T20:52:50.8622963+02:00","level":"INFO","msg":"sender: started","stream_id":"oveqldgv"}
+{"time":"2025-01-22T20:52:51.3063541+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:53:06.5107441+02:00","level":"INFO","msg":"stream: closing","id":"oveqldgv"}
+{"time":"2025-01-22T20:53:06.5107441+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:53:06.511508+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:53:07.5011715+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:53:07.8920872+02:00","level":"INFO","msg":"handler: closed","stream_id":"oveqldgv"}
+{"time":"2025-01-22T20:53:07.8921412+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oveqldgv"}
+{"time":"2025-01-22T20:53:07.8921412+02:00","level":"INFO","msg":"sender: closed","stream_id":"oveqldgv"}
+{"time":"2025-01-22T20:53:07.8921949+02:00","level":"INFO","msg":"stream: closed","id":"oveqldgv"}

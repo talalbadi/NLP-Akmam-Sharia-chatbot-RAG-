@@ -1,0 +1,8 @@
+* Running on local URL:  http://Localhost:8844
+
+Could not create share link. Please check your internet connection or our status page: https://status.gradio.app.
+67.96s - thread._ident is None in _get_related_thread!
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 68.39MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.4
+[34m[1mwandb[0m:   1 of 1 files downloaded.

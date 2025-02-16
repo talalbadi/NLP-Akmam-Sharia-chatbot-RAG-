@@ -1,0 +1,7 @@
+{"time":"2025-01-22T23:35:06.8270501+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250122_233506-ul7t4csk\\logs\\debug-core.log"}
+{"time":"2025-01-22T23:35:06.9377226+02:00","level":"INFO","msg":"created new stream","id":"ul7t4csk"}
+{"time":"2025-01-22T23:35:06.9377226+02:00","level":"INFO","msg":"stream: started","id":"ul7t4csk"}
+{"time":"2025-01-22T23:35:06.9377226+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ul7t4csk"}
+{"time":"2025-01-22T23:35:06.9377226+02:00","level":"INFO","msg":"handler: started","stream_id":"ul7t4csk"}
+{"time":"2025-01-22T23:35:06.9377226+02:00","level":"INFO","msg":"sender: started","stream_id":"ul7t4csk"}
+{"time":"2025-01-22T23:35:07.3292478+02:00","level":"INFO","msg":"Starting system monitor"}

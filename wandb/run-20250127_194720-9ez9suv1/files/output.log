@@ -1,0 +1,27 @@
+* Running on local URL:  http://localhost:8844
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\app.py", line 221, in <module>
+    demo.queue().launch(
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\blocks.py", line 2554, in launch
+    httpx.get(
+  File "C:\Python312\Lib\site-packages\httpx\_api.py", line 195, in get
+    return request(
+           ^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_api.py", line 102, in request
+    with Client(
+         ^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 688, in __init__
+    self._transport = self._init_transport(
+                      ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 731, in _init_transport
+    return HTTPTransport(
+           ^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 153, in __init__
+    ssl_context = create_ssl_context(verify=verify, cert=cert, trust_env=trust_env)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_config.py", line 40, in create_ssl_context
+    ctx = ssl.create_default_context(cafile=certifi.where())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\ssl.py", line 708, in create_default_context
+    context.load_verify_locations(cafile, capath, cadata)
+KeyboardInterrupt

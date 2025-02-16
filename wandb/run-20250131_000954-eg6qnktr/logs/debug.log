@@ -1,0 +1,7 @@
+2025-01-31 00:09:54,036 INFO    MainThread:31308 [wandb_init.py:setup_run_log_directory():624] Logging user logs to C:\dev\EE569\Assignment2-LLM\wandb\run-20250131_000954-eg6qnktr\logs\debug.log
+2025-01-31 00:09:54,036 INFO    MainThread:31308 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to C:\dev\EE569\Assignment2-LLM\wandb\run-20250131_000954-eg6qnktr\logs\debug-internal.log
+2025-01-31 00:09:54,036 INFO    MainThread:31308 [wandb_init.py:init():743] calling init triggers
+2025-01-31 00:09:54,036 INFO    MainThread:31308 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'project': 'llmapps', 'entity': None, 'job_type': 'production', 'vector_store_artifact': 'tmbuot-university-of-tripoli/llmapps/vector_store:latest', 'chat_prompt_artifact': 'tmbuot-university-of-tripoli/llmapps/chat_prompt:latest', 'chat_temperature': 0.3, 'max_fallback_retries': 1, 'model_name': 'gpt-4o-mini', 'eval_model': 'gpt-4o-mini', 'eval_artifact': 'tmbuot-university-of-tripoli/llmapps/generated_examples:v0'}
+2025-01-31 00:09:54,037 INFO    MainThread:31308 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-31 00:30:48,951 WARNING MsgRouterThr:31308 [router.py:message_loop():75] message_loop has been closed

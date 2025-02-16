@@ -1,0 +1,16 @@
+{"time":"2025-01-23T18:13:47.9310463+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_181347-4cyzuyx5\\logs\\debug-core.log"}
+{"time":"2025-01-23T18:13:48.0416244+02:00","level":"INFO","msg":"created new stream","id":"4cyzuyx5"}
+{"time":"2025-01-23T18:13:48.0421296+02:00","level":"INFO","msg":"stream: started","id":"4cyzuyx5"}
+{"time":"2025-01-23T18:13:48.0422229+02:00","level":"INFO","msg":"handler: started","stream_id":"4cyzuyx5"}
+{"time":"2025-01-23T18:13:48.0422229+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"4cyzuyx5"}
+{"time":"2025-01-23T18:13:48.0422229+02:00","level":"INFO","msg":"sender: started","stream_id":"4cyzuyx5"}
+{"time":"2025-01-23T18:13:48.8210519+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T18:14:06.3116116+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T18:14:06.3127403+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T18:14:07.3151839+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact documentation_dataset","runtime_seconds":2.8321487,"subtasks":[{"desc":"documents.json","runtime_seconds":1.7775383,"progress":"1.2MB/1.2MB"}]},{"desc":"uploading artifact vector_store","runtime_seconds":2.3958873,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":1.4520868,"progress":"1.1MB/47.7MB"}]}],"total_operations":2}}
+{"time":"2025-01-23T18:14:27.3915703+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T18:14:28.8938031+02:00","level":"INFO","msg":"stream: closing","id":"4cyzuyx5"}
+{"time":"2025-01-23T18:14:28.8938031+02:00","level":"INFO","msg":"handler: closed","stream_id":"4cyzuyx5"}
+{"time":"2025-01-23T18:14:28.8938031+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4cyzuyx5"}
+{"time":"2025-01-23T18:14:28.8981904+02:00","level":"INFO","msg":"sender: closed","stream_id":"4cyzuyx5"}
+{"time":"2025-01-23T18:14:28.8981904+02:00","level":"INFO","msg":"stream: closed","id":"4cyzuyx5"}

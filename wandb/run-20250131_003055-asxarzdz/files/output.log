@@ -1,0 +1,18 @@
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 68.39MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.4
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+  0%|                                                                                                       | 0/36 [00:00<?, ?it/s]c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:24: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  result = qa_chain({"question": query, "chat_history": []})
+100%|██████████████████████████████████████████████████████████████████████████████████████████████| 36/36 [02:33<00:00,  4.26s/it]
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py", line 95, in main
+    results[source] = evaluate_answers(eval_dataset, source)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py", line 31, in evaluate_answers
+    eval_prompt = load_eval_prompt()
+                  ^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\prompts.py", line 97, in load_eval_prompt
+    template["prompts"][2]["prompt"]
+    ^^^^^^^^
+UnboundLocalError: cannot access local variable 'template' where it is not associated with a value

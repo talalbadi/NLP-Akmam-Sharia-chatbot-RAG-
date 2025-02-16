@@ -1,0 +1,50 @@
+_wandb:
+    value:
+        cli_version: 0.19.4
+        m: []
+        python_version: 3.12.0
+        t:
+            "1":
+                - 55
+                - 86
+                - 92
+                - 95
+                - 105
+            "2":
+                - 55
+                - 86
+                - 92
+                - 95
+                - 105
+            "3":
+                - 2
+                - 16
+                - 23
+                - 55
+            "4": 3.12.0
+            "5": 0.19.4
+            "8":
+                - 3
+                - 5
+            "12": 0.19.4
+            "13": windows-amd64
+chat_prompt_artifact:
+    value: TMB/llmapps/chat_prompt:latest
+chat_temperature:
+    value: 0.3
+entity:
+    value: null
+eval_artifact:
+    value: TMB/llmapps/generated_examples:v0
+eval_model:
+    value: gpt-4o-mini
+job_type:
+    value: production
+max_fallback_retries:
+    value: 1
+model_name:
+    value: gpt-4o-mini
+project:
+    value: llmapps
+vector_store_artifact:
+    value: TMB/llmapps/vector_store:latest

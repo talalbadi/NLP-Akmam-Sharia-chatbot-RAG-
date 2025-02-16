@@ -1,0 +1,27 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.0",
+  "startedAt": "2025-01-23T21:33:54.963570Z",
+  "program": "c:\\dev\\EE569\\Assignment2-LLM\\LLM\\app.py",
+  "codePath": "LLM\\app.py",
+  "email": "tmbuot@gmail.com",
+  "root": "C:\\dev\\EE569\\Assignment2-LLM",
+  "host": "Talal",
+  "executable": "C:\\Python312\\python.exe",
+  "codePathLocal": "LLM\\app.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "510697402368",
+      "used": "485382090752"
+    }
+  },
+  "memory": {
+    "total": "16969424896"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

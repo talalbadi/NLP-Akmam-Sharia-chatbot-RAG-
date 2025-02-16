@@ -1,0 +1,9 @@
+{"time":"2025-01-23T20:14:58.8192371+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_201458-vby4goa7\\logs\\debug-core.log"}
+{"time":"2025-01-23T20:14:58.9281478+02:00","level":"INFO","msg":"created new stream","id":"vby4goa7"}
+{"time":"2025-01-23T20:14:58.9281478+02:00","level":"INFO","msg":"stream: started","id":"vby4goa7"}
+{"time":"2025-01-23T20:14:58.9281478+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"vby4goa7"}
+{"time":"2025-01-23T20:14:58.9281478+02:00","level":"INFO","msg":"handler: started","stream_id":"vby4goa7"}
+{"time":"2025-01-23T20:14:58.9281478+02:00","level":"INFO","msg":"sender: started","stream_id":"vby4goa7"}
+{"time":"2025-01-23T20:14:59.3994055+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T20:15:35.6408039+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-01-23T20:15:39.0573122+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}

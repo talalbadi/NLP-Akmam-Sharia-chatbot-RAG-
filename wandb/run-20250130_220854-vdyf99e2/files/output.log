@@ -1,0 +1,26 @@
+* Running on local URL:  http://localhost:8844
+
+Could not create share link. Please check your internet connection or our status page: https://status.gradio.app.
+Keyboard interruption in main thread... closing server.
+Traceback (most recent call last):
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\blocks.py", line 2868, in block_thread
+    time.sleep(0.1)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\app.py", line 221, in <module>
+    demo.queue().launch(
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\blocks.py", line 2773, in launch
+    self.block_thread()
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\blocks.py", line 2872, in block_thread
+    self.server.close()
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\http_server.py", line 69, in close
+    self.thread.join(timeout=5)
+  File "C:\Python312\Lib\threading.py", line 1130, in join
+    self._wait_for_tstate_lock(timeout=max(timeout, 0))
+  File "C:\Python312\Lib\threading.py", line 1146, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

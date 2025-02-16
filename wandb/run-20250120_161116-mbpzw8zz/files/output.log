@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\wandb\apis\normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\apis\public\api.py", line 1214, in _artifact
+    artifact = wandb.Artifact._from_name(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\artifacts\artifact.py", line 268, in _from_name
+    raise ValueError(f"project '{project}' not found under entity '{entity}'")
+ValueError: project 'llmapps' not found under entity 'benbarka'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\eval.py", line 117, in <module>
+    eval_dataset = load_eval_dataset(default_config)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\eval.py", line 33, in load_eval_dataset
+    artifact = wandb.use_artifact(config.eval_artifact)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 393, in wrapper_fn
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 383, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 3033, in use_artifact
+    artifact = public_api._artifact(type=type, name=name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\apis\normalize.py", line 71, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "C:\Python312\Lib\site-packages\wandb\apis\normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\apis\public\api.py", line 1214, in _artifact
+    artifact = wandb.Artifact._from_name(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\artifacts\artifact.py", line 268, in _from_name
+    raise ValueError(f"project '{project}' not found under entity '{entity}'")
+wandb.errors.errors.CommError: project 'llmapps' not found under entity 'benbarka'

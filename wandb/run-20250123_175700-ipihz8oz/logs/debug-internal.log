@@ -1,0 +1,15 @@
+{"time":"2025-01-23T17:57:01.1937511+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_175700-ipihz8oz\\logs\\debug-core.log"}
+{"time":"2025-01-23T17:57:01.3089132+02:00","level":"INFO","msg":"created new stream","id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:01.3089132+02:00","level":"INFO","msg":"stream: started","id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:01.3100934+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:01.3106512+02:00","level":"INFO","msg":"handler: started","stream_id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:01.3106512+02:00","level":"INFO","msg":"sender: started","stream_id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:01.8986643+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T17:57:34.3719327+02:00","level":"INFO","msg":"stream: closing","id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:34.3719327+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T17:57:34.373422+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T17:57:35.5173036+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T17:57:36.0295356+02:00","level":"INFO","msg":"handler: closed","stream_id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:36.0295356+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:36.0295356+02:00","level":"INFO","msg":"sender: closed","stream_id":"ipihz8oz"}
+{"time":"2025-01-23T17:57:36.030055+02:00","level":"INFO","msg":"stream: closed","id":"ipihz8oz"}

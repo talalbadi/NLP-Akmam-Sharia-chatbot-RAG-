@@ -1,0 +1,7 @@
+{"time":"2025-01-20T20:42:07.5759959+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250120_204207-0zop4jp4\\logs\\debug-core.log"}
+{"time":"2025-01-20T20:42:07.6874287+02:00","level":"INFO","msg":"created new stream","id":"0zop4jp4"}
+{"time":"2025-01-20T20:42:07.6875491+02:00","level":"INFO","msg":"stream: started","id":"0zop4jp4"}
+{"time":"2025-01-20T20:42:07.6876223+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"0zop4jp4"}
+{"time":"2025-01-20T20:42:07.6876223+02:00","level":"INFO","msg":"handler: started","stream_id":"0zop4jp4"}
+{"time":"2025-01-20T20:42:07.6876223+02:00","level":"INFO","msg":"sender: started","stream_id":"0zop4jp4"}
+{"time":"2025-01-20T20:42:08.1597313+02:00","level":"INFO","msg":"Starting system monitor"}

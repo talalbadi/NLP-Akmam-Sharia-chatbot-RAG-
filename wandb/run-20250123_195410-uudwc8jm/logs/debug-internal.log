@@ -1,0 +1,9 @@
+{"time":"2025-01-23T19:54:10.723898+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_195410-uudwc8jm\\logs\\debug-core.log"}
+{"time":"2025-01-23T19:54:10.833529+02:00","level":"INFO","msg":"created new stream","id":"uudwc8jm"}
+{"time":"2025-01-23T19:54:10.833529+02:00","level":"INFO","msg":"stream: started","id":"uudwc8jm"}
+{"time":"2025-01-23T19:54:10.833529+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"uudwc8jm"}
+{"time":"2025-01-23T19:54:10.833529+02:00","level":"INFO","msg":"sender: started","stream_id":"uudwc8jm"}
+{"time":"2025-01-23T19:54:10.833529+02:00","level":"INFO","msg":"handler: started","stream_id":"uudwc8jm"}
+{"time":"2025-01-23T19:54:11.2727724+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T19:54:39.8027177+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-01-23T19:54:43.3159254+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}

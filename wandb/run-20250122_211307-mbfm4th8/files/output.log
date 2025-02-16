@@ -1,0 +1,10 @@
+Loaded 1 JSON documents.
+Splitting document with 64550 tokens...
+Total chunks created: 1
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:116: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding_function = OpenAIEmbeddings(openai_api_key=api_key)
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:122: LangChainDeprecationWarning: Since Chroma 0.4.x the manual persistence method is no longer supported as docs are automatically persisted.
+  vector_store.persist()
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:136: PydanticDeprecatedSince20: The `json` method is deprecated; use `model_dump_json` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
+  f.write(document.json() + "\n")
+[34m[1mwandb[0m: Adding directory to artifact (.\vector_store)... Done. 0.2s

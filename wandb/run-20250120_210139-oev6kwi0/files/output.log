@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\vectordatabase\vectordb.py", line 224, in <module>
+    main()
+  File "c:\dev\EE569\Assignment2-LLM\vectordatabase\vectordb.py", line 211, in main
+    documents, vector_store = ingest_data(
+                              ^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\vectordatabase\vectordb.py", line 156, in ingest_data
+    documents = load_documents(docs_dir)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\vectordatabase\vectordb.py", line 49, in load_documents
+    text = f"Question: {item['question']}\nAnswer: {item['answer']}"
+                        ~~~~^^^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'

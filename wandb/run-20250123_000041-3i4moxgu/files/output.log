@@ -1,0 +1,19 @@
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:218: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  return Chroma(persist_directory=vector_store_path, embedding_function=OpenAIEmbeddings())
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:218: LangChainDeprecationWarning: The class `Chroma` was deprecated in LangChain 0.2.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-chroma package and should be used instead. To use it run `pip install -U :class:`~langchain-chroma` and import as `from :class:`~langchain_chroma import Chroma``.
+  return Chroma(persist_directory=vector_store_path, embedding_function=OpenAIEmbeddings())
+Query Results:
+Content: صلاةُ الخوفِ هي: الصَّلاةُ المكتوبةُ يَحضُر وقتُها والمسلمونَ في مقاتلةِ العدوِّ، أو في حراسةِ المسلمينَ منهم ((كفاية الطالب الرباني)) لأبي الحسن المالكي (1/483).
+Metadata: {'href': 'https://dorar.net/feqhia/1534', 'level': 5, 'title': 'المطلب الأول: تَعريفُ صلاة ِالخَوفِ'}
+
+Content: قَصْر الصَّلاةِ: خلافُ الإتمامِ، وهو أنْ تُصلَّى الصَّلاةُ الرُّباعيَّةُ رَكعتينِ ((مقاييس اللغة)) لابن فارس (5/96)، ((لسان العرب)) لابن منظور (5/95)، ((الفقه الإسلامي وأدلته)) للزحيلي (2/1338).
+Metadata: {'href': 'https://dorar.net/feqhia/1444', 'level': 5, 'title': 'المطلبُ الأوَّل: تعريفُ قَصرِ الصَّلاةِ'}
+
+Content: في صَلاةِ الفَجرِ خاصَّةً. ثانيًا: أنَّ صلاةَ الفجرِ وقتٌ ينامُ فيه عامَّةُ الناس، ويقومون إلى الصَّلاةِ عن نومٍ؛ فاختُصَّتْ بالتثويبِ؛ لاختصاصِها بالحاجةِ إليه ((المغني)) لابن قدامة (1/296).
+Metadata: {'href': 'https://dorar.net/feqhia/728', 'level': 5, 'title': 'المطلب الثالث: التثويبُ في الأذانِ'}
+
+Content: لأنَّ صلاةَ الخسوف تطول، قد يفوتُ الوقتُ، فالسُّنَّة أن يُبدأ بالفريضة، ثم الصَّلاةِ؛ صلاةِ الخسوف، وهكذا لو كَسَفت الشمس وقتَ العصر، يُبدأ بالعصر، ثم يُصلَّى الكسوف. ((فتاوى نور على الدرب)) (13/393).
+Metadata: {'href': 'https://dorar.net/feqhia/1831', 'level': 4, 'title': 'المبحث الأوَّلُ: اجتماعُ الكسوفِ مع الفَرْض، وخَوفُ فوتِ وقتِ الفَرْضِ'}
+
+Content: العثيمين)) (16/313). ثانيًا: أنَّها صلاةُ ليلٍ لها نظيرٌ بالنَّهار؛ فُسنَّ الجهرُ بها كالعِشاء ((المجموع)) للنووي (5/46). ثالثًا: أنَّها نافلةٌ شُرِعت لها الجماعةُ؛ فكان مِن سُننها الجهرُ كصلاةِ الاستسقاءِ، والعيدِ والتراويحِ ((المغني)) لابن قدامة (2/314).
+Metadata: {'href': 'https://dorar.net/feqhia/1820', 'level': 5, 'title': 'المطلب الثاني: حُكمُ الجهرِ والإسرارِ بالقِراءة في صلاةِ خُسوفِ القَمر'}

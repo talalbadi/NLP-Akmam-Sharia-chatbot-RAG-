@@ -1,0 +1,7 @@
+{"time":"2025-01-23T18:36:30.0575227+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_183629-guyh10fg\\logs\\debug-core.log"}
+{"time":"2025-01-23T18:36:30.1663858+02:00","level":"INFO","msg":"created new stream","id":"guyh10fg"}
+{"time":"2025-01-23T18:36:30.1663858+02:00","level":"INFO","msg":"stream: started","id":"guyh10fg"}
+{"time":"2025-01-23T18:36:30.1663858+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"guyh10fg"}
+{"time":"2025-01-23T18:36:30.1663858+02:00","level":"INFO","msg":"sender: started","stream_id":"guyh10fg"}
+{"time":"2025-01-23T18:36:30.1663858+02:00","level":"INFO","msg":"handler: started","stream_id":"guyh10fg"}
+{"time":"2025-01-23T18:36:30.6516832+02:00","level":"INFO","msg":"Starting system monitor"}

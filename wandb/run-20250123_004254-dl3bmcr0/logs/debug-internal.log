@@ -1,0 +1,16 @@
+{"time":"2025-01-23T00:42:54.8545974+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_004254-dl3bmcr0\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:42:54.9795227+02:00","level":"INFO","msg":"created new stream","id":"dl3bmcr0"}
+{"time":"2025-01-23T00:42:54.9795227+02:00","level":"INFO","msg":"stream: started","id":"dl3bmcr0"}
+{"time":"2025-01-23T00:42:54.9821037+02:00","level":"INFO","msg":"handler: started","stream_id":"dl3bmcr0"}
+{"time":"2025-01-23T00:42:54.9821037+02:00","level":"INFO","msg":"sender: started","stream_id":"dl3bmcr0"}
+{"time":"2025-01-23T00:42:54.9821037+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"dl3bmcr0"}
+{"time":"2025-01-23T00:42:55.7238509+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T00:43:21.7654157+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T00:43:21.7663758+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T00:43:22.7726161+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vector_store","runtime_seconds":5.6494233000000005,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":4.5900206,"progress":"5.2MB/16.4MB"},{"desc":"82f6c105-080a-4354-965c-9616c5b2d7d5/data_level0.bin","runtime_seconds":4.5900206,"progress":"5.9MB/6.0MB"}]},{"desc":"uploading output.log","runtime_seconds":0.6172841,"progress":"26.0KB/26.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6172841,"progress":"25B/25B"},{"desc":"uploading config.yaml","runtime_seconds":0.2171329,"progress":"835B/835B"}],"total_operations":4}}
+{"time":"2025-01-23T00:43:29.5878539+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T00:43:30.9855109+02:00","level":"INFO","msg":"stream: closing","id":"dl3bmcr0"}
+{"time":"2025-01-23T00:43:30.9855109+02:00","level":"INFO","msg":"handler: closed","stream_id":"dl3bmcr0"}
+{"time":"2025-01-23T00:43:30.9855109+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dl3bmcr0"}
+{"time":"2025-01-23T00:43:30.9855887+02:00","level":"INFO","msg":"sender: closed","stream_id":"dl3bmcr0"}
+{"time":"2025-01-23T00:43:30.986272+02:00","level":"INFO","msg":"stream: closed","id":"dl3bmcr0"}

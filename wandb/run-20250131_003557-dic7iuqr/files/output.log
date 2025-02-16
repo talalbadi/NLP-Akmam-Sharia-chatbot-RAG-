@@ -1,0 +1,21 @@
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 68.39MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.5
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+  0%|                                                                                                       | 0/36 [00:00<?, ?it/s]c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:24: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  result = qa_chain({"question": query, "chat_history": []})
+100%|██████████████████████████████████████████████████████████████████████████████████████████████| 36/36 [02:33<00:00,  4.28s/it]
+2
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 68.39MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.6
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████| 46/46 [03:08<00:00,  4.11s/it]
+7
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 68.39MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.4
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████| 60/60 [03:39<00:00,  3.65s/it]
+31
+Evaluation complete. Results saved to evaluation_results.json

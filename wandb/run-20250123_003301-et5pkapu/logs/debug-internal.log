@@ -1,0 +1,7 @@
+{"time":"2025-01-23T00:33:01.9898269+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_003301-et5pkapu\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:33:02.1210101+02:00","level":"INFO","msg":"created new stream","id":"et5pkapu"}
+{"time":"2025-01-23T00:33:02.1215673+02:00","level":"INFO","msg":"stream: started","id":"et5pkapu"}
+{"time":"2025-01-23T00:33:02.1215673+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"et5pkapu"}
+{"time":"2025-01-23T00:33:02.1222032+02:00","level":"INFO","msg":"sender: started","stream_id":"et5pkapu"}
+{"time":"2025-01-23T00:33:02.1222032+02:00","level":"INFO","msg":"handler: started","stream_id":"et5pkapu"}
+{"time":"2025-01-23T00:33:02.8000704+02:00","level":"INFO","msg":"Starting system monitor"}

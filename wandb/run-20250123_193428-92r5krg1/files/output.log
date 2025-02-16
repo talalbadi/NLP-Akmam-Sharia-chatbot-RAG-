@@ -1,0 +1,19 @@
+* Running on local URL:  http://Localhost:8844
+
+Could not create share link. Please check your internet connection or our status page: https://status.gradio.app.
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 68.39MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.5
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+c:\dev\EE569\Assignment2-LLM\LLM\app.py:13: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM\app.py:13: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM\app.py:13: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM\app.py:13: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM\app.py:13: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM\app.py:13: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:

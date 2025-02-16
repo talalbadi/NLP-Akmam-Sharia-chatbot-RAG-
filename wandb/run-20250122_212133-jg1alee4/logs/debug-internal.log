@@ -1,0 +1,10 @@
+{"time":"2025-01-22T21:21:33.5127099+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250122_212133-jg1alee4\\logs\\debug-core.log"}
+{"time":"2025-01-22T21:21:33.6228914+02:00","level":"INFO","msg":"created new stream","id":"jg1alee4"}
+{"time":"2025-01-22T21:21:33.6228914+02:00","level":"INFO","msg":"stream: started","id":"jg1alee4"}
+{"time":"2025-01-22T21:21:33.6228914+02:00","level":"INFO","msg":"handler: started","stream_id":"jg1alee4"}
+{"time":"2025-01-22T21:21:33.6228914+02:00","level":"INFO","msg":"sender: started","stream_id":"jg1alee4"}
+{"time":"2025-01-22T21:21:33.6233982+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"jg1alee4"}
+{"time":"2025-01-22T21:21:34.2586884+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T21:21:42.000835+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T21:21:42.0018981+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T21:21:43.0108012+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact documentation_dataset","runtime_seconds":1.7903088,"subtasks":[{"desc":"documents.json","runtime_seconds":0.8762768,"progress":"174.1KB/174.1KB"}]},{"desc":"uploading artifact vector_store","runtime_seconds":1.3412556,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":0.3907293,"progress":"1.0MB/57.9MB"}]}],"total_operations":2}}

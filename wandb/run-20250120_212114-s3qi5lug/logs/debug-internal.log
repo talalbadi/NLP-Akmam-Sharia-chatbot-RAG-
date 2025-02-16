@@ -1,0 +1,16 @@
+{"time":"2025-01-20T21:21:15.1192276+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250120_212114-s3qi5lug\\logs\\debug-core.log"}
+{"time":"2025-01-20T21:21:15.2291406+02:00","level":"INFO","msg":"created new stream","id":"s3qi5lug"}
+{"time":"2025-01-20T21:21:15.2291406+02:00","level":"INFO","msg":"stream: started","id":"s3qi5lug"}
+{"time":"2025-01-20T21:21:15.2291406+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"s3qi5lug"}
+{"time":"2025-01-20T21:21:15.2291406+02:00","level":"INFO","msg":"handler: started","stream_id":"s3qi5lug"}
+{"time":"2025-01-20T21:21:15.2291406+02:00","level":"INFO","msg":"sender: started","stream_id":"s3qi5lug"}
+{"time":"2025-01-20T21:21:15.6622097+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-20T21:21:43.4307409+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-20T21:21:43.4314596+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-20T21:21:44.4323037+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vector_store","runtime_seconds":1.4999503,"subtasks":[{"desc":"c9521d34-b925-417a-b652-b27458ca429c/data_level0.bin","runtime_seconds":0.5168948,"progress":"512.0KB/18.0MB"},{"desc":"c9521d34-b925-417a-b652-b27458ca429c/header.bin","runtime_seconds":0.5168948,"progress":"100B/100B"},{"desc":"c9521d34-b925-417a-b652-b27458ca429c/index_metadata.pickle","runtime_seconds":0.5168948,"progress":"168.0KB/168.0KB"},{"desc":"c9521d34-b925-417a-b652-b27458ca429c/length.bin","runtime_seconds":0.5168948,"progress":"11.7KB/11.7KB"},{"desc":"c9521d34-b925-417a-b652-b27458ca429c/link_lists.bin","runtime_seconds":0.5163906,"progress":"24.9KB/24.9KB"},{"desc":"chroma.sqlite3","runtime_seconds":0.5163906,"progress":"480.0KB/57.9MB"}]},{"desc":"uploading artifact chat_prompt","runtime_seconds":1.0062975}],"total_operations":2}}
+{"time":"2025-01-20T21:22:23.6747456+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-20T21:22:25.0360203+02:00","level":"INFO","msg":"stream: closing","id":"s3qi5lug"}
+{"time":"2025-01-20T21:22:25.0360203+02:00","level":"INFO","msg":"handler: closed","stream_id":"s3qi5lug"}
+{"time":"2025-01-20T21:22:25.0360203+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s3qi5lug"}
+{"time":"2025-01-20T21:22:25.0360203+02:00","level":"INFO","msg":"sender: closed","stream_id":"s3qi5lug"}
+{"time":"2025-01-20T21:22:25.0365867+02:00","level":"INFO","msg":"stream: closed","id":"s3qi5lug"}

@@ -1,0 +1,219 @@
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:21: SyntaxWarning: invalid escape sequence '\d'
+  doc_list =["C:\dev\EE569\Assignment2-LLM\chapter1.json"]
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:26: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:66: SyntaxWarning: invalid escape sequence '\d'
+  with open("C:\dev\EE569\Assignment2-LLM\questions_and_answers.json", "r") as file:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:21: SyntaxWarning: invalid escape sequence '\d'
+  doc_list =["C:\dev\EE569\Assignment2-LLM\chapter1.json"]
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:26: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:66: SyntaxWarning: invalid escape sequence '\d'
+  with open("C:\dev\EE569\Assignment2-LLM\questions_and_answers.json", "r") as file:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:21: SyntaxWarning: invalid escape sequence '\d'
+  doc_list =["C:\dev\EE569\Assignment2-LLM\chapter1.json"]
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:26: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:66: SyntaxWarning: invalid escape sequence '\d'
+  with open("C:\dev\EE569\Assignment2-LLM\questions_and_answers.json", "r") as file:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:21: SyntaxWarning: invalid escape sequence '\d'
+  doc_list =["C:\dev\EE569\Assignment2-LLM\chapter1.json"]
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:26: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:66: SyntaxWarning: invalid escape sequence '\d'
+  with open("C:\dev\EE569\Assignment2-LLM\questions_and_answers.json", "r") as file:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:21: SyntaxWarning: invalid escape sequence '\d'
+  doc_list =["C:\dev\EE569\Assignment2-LLM\chapter1.json"]
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:26: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:66: SyntaxWarning: invalid escape sequence '\d'
+  with open("C:\dev\EE569\Assignment2-LLM\questions_and_answers.json", "r") as file:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:21: SyntaxWarning: invalid escape sequence '\d'
+  doc_list =["C:\dev\EE569\Assignment2-LLM\chapter1.json"]
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:26: SyntaxWarning: invalid escape sequence '\d'
+  with open('C:\dev\EE569\Assignment2-LLM\LLM\key.txt', 'r') as f:
+c:\dev\EE569\Assignment2-LLM\LLM2\Generation.py:66: SyntaxWarning: invalid escape sequence '\d'
+  with open("C:\dev\EE569\Assignment2-LLM\questions_and_answers.json", "r") as file:
+Sure! Here are some support questions that could be used for a variety of contexts, such as customer service, technical support, or user assistance:
+
+### General Support Questions
+1. What issue are you experiencing with our product/service?
+2. When did you first notice the problem?
+3. Can you provide a detailed description of the issue?
+4. Are there any error messages you see? If so, what do they say?
+5. Which device and operating system are you using?
+6. Have you tried any troubleshooting steps? If so, what were they?
+7. Is the issue consistent or intermittent?
+8. Can you describe any specific actions that lead to the problem?
+9. Have you recently made any changes to your system or settings?
+10. Would you be able to provide screenshots or a screen recording of the issue?
+
+### Technical Support Questions
+1. What version of the software are you using?
+2. Have you checked for updates or patches for your software/device?
+3. Are you connected to the internet? If so, is your connection stable?
+4. Have you attempted to restart your device or application?
+5. Are you experiencing issues with any other applications or services?
+6. Can you confirm that your settings are configured correctly?
+7. Have you disabled any firewalls or antivirus software that could be interfering?
+8. What steps can you take to replicate the issue?
+9. Can you access support materials, such as FAQs or help guides?
+10. Are there any specific configurations (e.g., network settings) that you believe might affect this issue?
+
+### Customer Service Questions
+1. How can we assist you today?
+2. What features are you most interested in?
+3. Are you satisfied with your current experience with our service/product?
+4. Is there anything specific that you find frustrating?
+5. How did you hear about us?
+6. Would you recommend our service to others? Why or why not?
+7. What improvements would you like to see in our products/services?
+8. Have you contacted us for support before? If so, how was your experience?
+9. Would you like to receive updates about new features or changes to our service?
+10. Is there anything else we can help you with at this time?
+
+Feel free to adapt these questions to suit your specific needs!
+Certainly! Here are some support questions you might consider using, depending on the context or nature of the support you need:
+
+### General Support Questions
+1. What specific issue are you experiencing?
+2. Can you describe the steps you took before encountering this problem?
+3. Have you tried any solutions to resolve this issue? If so, what were they?
+4. Are there any error messages you received? If so, what do they say?
+5. What device and operating system are you using?
+6. When did this issue first occur?
+7. Have you experienced this issue before or is this the first time?
+8. Is there a particular feature that seems to be malfunctioning?
+9. Can you provide a screenshot or screen recording of the issue?
+10. Are you connected to a stable internet connection?
+
+### Software/Application Support Questions
+1. What version of the software/application are you currently using?
+2. Are there any recent changes or updates to the software that might have triggered the issue?
+3. Have you checked the user manual or FAQs for troubleshooting steps?
+4. Is the application crashing, freezing, or experiencing slow performance?
+5. Are you using any plugins or add-ons? If so, which ones?
+
+### Technical Support Questions
+1. Can you provide the technical specifications of your device?
+2. Are all drivers and software programs up to date?
+3. Have you run any diagnostic tests? What were the results?
+4. Is this issue occurring on multiple devices or just one?
+5. Can you replicate the issue consistently? If so, what are the steps?
+
+### Customer Service Questions
+1. How can I assist you today?
+2. What are your primary concerns or needs regarding our product/service?
+3. Were you able to find the information you were looking for on our website?
+4. Have you interacted with customer support before? If so, how was your experience?
+5. What feedback do you have for us regarding our product/service?
+
+Feel free to modify these questions according to your specific needs or context!
+Sure! Here are some support questions you might consider using, depending on the context:
+
+### General Technical Support
+1. What specific issue are you encountering with the software/hardware?
+2. Can you describe the steps you took before the problem occurred?
+3. Are you receiving any error messages? If so, can you provide the exact text?
+4. Have you tried restarting your device or application? Did that help?
+5. What operating system and version are you using?
+
+### Customer Service
+1. What product or service are you inquiring about?
+2. Can you provide your order number or account details?
+3. What is the nature of your request (refund, exchange, inquiry)?
+4. How can we help improve your experience with our company?
+5. Have you reached out to our support team previously regarding this issue?
+
+### Product Support
+1. What model of the product are you using?
+2. When did you purchase the product?
+3. Have you reviewed the user manual? If so, did you find the information helpful?
+4. Are you following the recommended setup procedure?
+5. Have you experienced this issue before, or is this the first time?
+
+### Billing and Account Support
+1. Can you confirm the email address associated with your account?
+2. What type of billing issue are you experiencing (charge dispute, subscription issue)?
+3. Have you checked your payment method for any issues?
+4. Can you provide more details about the transaction in question?
+5. Are you receiving any notifications or alerts regarding your account?
+
+Feel free to adapt these questions based on your specific needs!
+Sure! Here are some support questions that might be useful in various contexts, such as customer service, tech support, or general inquiries:
+
+### General Customer Support Questions
+1. What product or service are you experiencing issues with?
+2. Can you describe the problem you're facing in detail?
+3. When did you first notice this issue?
+4. Have you tried any troubleshooting steps? If so, what were they?
+5. Are you receiving any error messages? If yes, please provide the exact text of the message.
+6. What device are you using (e.g., smartphone, tablet, computer) and what operating system is it running?
+7. Can you provide your account information or order number for reference?
+8. Have you experienced this issue before, or is this the first time?
+9. What browser or app are you using?
+10. Can you confirm if the issue occurs on multiple devices or browsers?
+
+### Technical Support Questions
+1. What specific software version are you using?
+2. Have you recently installed any new software or updates?
+3. Can you replicate the issue consistently? If so, what are the steps to reproduce it?
+4. Would you be able to provide screenshots or video of the issue for better understanding?
+5. Are there any other applications running that could interfere with your current task?
+6. Is your internet connection stable? Have you experienced any connectivity issues?
+7. Are you connected to a VPN or any other network that might affect your access?
+8. Have you checked if there are any ongoing service outages or maintenance notifications?
+9. Can you try clearing your cache and cookies, and see if that resolves the issue?
+10. What security software are you using that could possibly block our service?
+
+### Billing or Account Support Questions
+1. Can you provide more details about the billing issue you’re experiencing?
+2. When was your last payment made, and what method did you use?
+3. Have you received any emails regarding recent transactions or account alerts?
+4. Can you confirm the email address associated with your account?
+5. Are there any charges on your statement that you don’t recognize?
+6. Would you like to update your billing information or payment method?
+7. Do you have a subscription or a contract, and when does it expire?
+8. Have you taken advantage of any discounts or promotional offers?
+9. Can you specify if the problem is with a single transaction or multiple?
+10. Is there any specific resolution or outcome you are looking for?
+
+Feel free to modify or expand on these questions based on your specific needs!
+Sure! Here are some support questions you can use, categorized by different contexts:
+
+### General Customer Support
+1. What issues are you experiencing with our product/service?
+2. Can you provide more details about the error message you received?
+3. How can I assist you today?
+4. Have you tried any troubleshooting steps already? If so, what were they?
+5. What device or platform are you using to access our service?
+
+### Technical Support
+1. Can you describe the steps that lead to the problem you’re facing?
+2. What version of the software are you currently using?
+3. Are there any recent updates or changes made to your system?
+4. Can you send us a screenshot of the issue?
+5. Have you cleared your cache or tried using a different browser?
+
+### Billing Support
+1. Can you please provide your order number or account details?
+2. What specific billing issue are you encountering?
+3. Are you inquiring about a recent charge on your statement?
+4. Have you checked if there are any outstanding invoices or subscriptions?
+5. Would you like to discuss your payment method or update your billing information?
+
+### Product Support
+1. What product are you having issues with?
+2. Can you describe how you have set up the product?
+3. Are you following the instructions provided in the user manual?
+4. Is there a specific feature you are having trouble with?
+5. Have you consulted our FAQs or help center for this issue?
+
+### Service Feedback
+1. How satisfied are you with your recent experience with our support team?
+2. What could we improve in our service offering?
+3. Did the support provided resolve your issue?
+4. Would you recommend our service to others? Why or why not?
+5. Is there anything else you would like to share about your experience with us?
+
+Feel free to customize these questions according to your specific needs or context!

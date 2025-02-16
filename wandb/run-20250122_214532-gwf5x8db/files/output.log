@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 204, in <module>
+    main()
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 192, in main
+    documents, vector_store = ingest_data(
+                              ^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 137, in ingest_data
+    documents = load_json_documents(docs_dir)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 42, in load_json_documents
+    "title": item.get("text", ""),
+             ^^^^^^^^
+  File "C:\Python312\Lib\site-packages\pydantic\main.py", line 891, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Document' object has no attribute 'get'

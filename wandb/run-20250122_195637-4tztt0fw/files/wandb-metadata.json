@@ -1,0 +1,27 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.0",
+  "startedAt": "2025-01-22T17:56:37.421054Z",
+  "program": "C:\\dev\\EE569\\Assignment2-LLM\\MYLLM\\vectordatabase\\vectordb.py",
+  "codePath": "MYLLM\\vectordatabase\\vectordb.py",
+  "email": "tmbuot@gmail.com",
+  "root": "C:\\dev\\EE569\\Assignment2-LLM",
+  "host": "Talal",
+  "executable": "c:\\Python312\\python.exe",
+  "codePathLocal": "MYLLM\\vectordatabase\\vectordb.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "510697402368",
+      "used": "485262327808"
+    }
+  },
+  "memory": {
+    "total": "16969424896"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

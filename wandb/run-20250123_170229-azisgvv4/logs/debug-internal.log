@@ -1,0 +1,7 @@
+{"time":"2025-01-23T17:02:29.3628905+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_170229-azisgvv4\\logs\\debug-core.log"}
+{"time":"2025-01-23T17:02:29.4779734+02:00","level":"INFO","msg":"created new stream","id":"azisgvv4"}
+{"time":"2025-01-23T17:02:29.4779734+02:00","level":"INFO","msg":"stream: started","id":"azisgvv4"}
+{"time":"2025-01-23T17:02:29.4787373+02:00","level":"INFO","msg":"handler: started","stream_id":"azisgvv4"}
+{"time":"2025-01-23T17:02:29.4787373+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"azisgvv4"}
+{"time":"2025-01-23T17:02:29.479243+02:00","level":"INFO","msg":"sender: started","stream_id":"azisgvv4"}
+{"time":"2025-01-23T17:02:30.0061696+02:00","level":"INFO","msg":"Starting system monitor"}

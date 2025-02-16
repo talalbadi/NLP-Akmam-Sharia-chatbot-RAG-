@@ -1,0 +1,7 @@
+{"time":"2025-01-24T16:57:06.9553044+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250124_165706-tfcz31u0\\logs\\debug-core.log"}
+{"time":"2025-01-24T16:57:07.0866117+02:00","level":"INFO","msg":"created new stream","id":"tfcz31u0"}
+{"time":"2025-01-24T16:57:07.0866117+02:00","level":"INFO","msg":"stream: started","id":"tfcz31u0"}
+{"time":"2025-01-24T16:57:07.0866117+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tfcz31u0"}
+{"time":"2025-01-24T16:57:07.0866117+02:00","level":"INFO","msg":"handler: started","stream_id":"tfcz31u0"}
+{"time":"2025-01-24T16:57:07.0866117+02:00","level":"INFO","msg":"sender: started","stream_id":"tfcz31u0"}
+{"time":"2025-01-24T16:57:07.7198371+02:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,18 @@
+{"time":"2025-01-22T23:47:52.0763197+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250122_234751-bzeix7f1\\logs\\debug-core.log"}
+{"time":"2025-01-22T23:47:52.2000442+02:00","level":"INFO","msg":"created new stream","id":"bzeix7f1"}
+{"time":"2025-01-22T23:47:52.2000442+02:00","level":"INFO","msg":"stream: started","id":"bzeix7f1"}
+{"time":"2025-01-22T23:47:52.201414+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"bzeix7f1"}
+{"time":"2025-01-22T23:47:52.2019688+02:00","level":"INFO","msg":"handler: started","stream_id":"bzeix7f1"}
+{"time":"2025-01-22T23:47:52.2071858+02:00","level":"INFO","msg":"sender: started","stream_id":"bzeix7f1"}
+{"time":"2025-01-22T23:47:52.9842973+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T23:51:56.5346329+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T23:51:56.5359493+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T23:51:57.5378211+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact documentation_dataset","runtime_seconds":3.8416228,"subtasks":[{"desc":"documents.json","runtime_seconds":2.6726069,"progress":"3.2MB/11.2MB"}]},{"desc":"uploading artifact vector_store","runtime_seconds":2.9899779,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":1.9841208,"progress":"2.4MB/122.0MB"},{"desc":"b69a7e62-604a-46d3-b45b-29b2cd6fc3f9/data_level0.bin","runtime_seconds":1.9841208,"progress":"2.1MB/36.0MB"}]},{"desc":"uploading config.yaml","runtime_seconds":0.266299,"progress":"833B/833B"}],"total_operations":3}}
+{"time":"2025-01-22T23:52:57.9942984+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vector_store","runtime_seconds":63.4464552,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":62.4405981,"progress":"41.6MB/122.0MB"}]}],"total_operations":1}}
+{"time":"2025-01-22T23:53:58.4841187+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vector_store","runtime_seconds":123.9362755,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":122.9304184,"progress":"116.3MB/122.0MB"}]}],"total_operations":1}}
+{"time":"2025-01-22T23:54:04.3196521+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T23:54:05.9131978+02:00","level":"INFO","msg":"stream: closing","id":"bzeix7f1"}
+{"time":"2025-01-22T23:54:05.9131978+02:00","level":"INFO","msg":"handler: closed","stream_id":"bzeix7f1"}
+{"time":"2025-01-22T23:54:05.9131978+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bzeix7f1"}
+{"time":"2025-01-22T23:54:05.9131978+02:00","level":"INFO","msg":"sender: closed","stream_id":"bzeix7f1"}
+{"time":"2025-01-22T23:54:05.9137073+02:00","level":"INFO","msg":"stream: closed","id":"bzeix7f1"}

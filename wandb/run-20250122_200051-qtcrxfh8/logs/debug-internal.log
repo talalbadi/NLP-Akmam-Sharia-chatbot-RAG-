@@ -1,0 +1,7 @@
+{"time":"2025-01-22T20:00:52.1286744+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250122_200051-qtcrxfh8\\logs\\debug-core.log"}
+{"time":"2025-01-22T20:00:52.2405297+02:00","level":"INFO","msg":"created new stream","id":"qtcrxfh8"}
+{"time":"2025-01-22T20:00:52.2405297+02:00","level":"INFO","msg":"stream: started","id":"qtcrxfh8"}
+{"time":"2025-01-22T20:00:52.2405297+02:00","level":"INFO","msg":"handler: started","stream_id":"qtcrxfh8"}
+{"time":"2025-01-22T20:00:52.2412114+02:00","level":"INFO","msg":"sender: started","stream_id":"qtcrxfh8"}
+{"time":"2025-01-22T20:00:52.2412114+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"qtcrxfh8"}
+{"time":"2025-01-22T20:00:52.7843606+02:00","level":"INFO","msg":"Starting system monitor"}

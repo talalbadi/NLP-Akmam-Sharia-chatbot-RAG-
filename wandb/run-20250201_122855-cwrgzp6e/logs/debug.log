@@ -1,0 +1,26 @@
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_setup.py:_flush():68] Current SDK version is 0.19.4
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_setup.py:_flush():68] Configure stats pid to 18412
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_setup.py:_flush():68] Loading settings from C:\Users\TMB\.config\wandb\settings
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_setup.py:_flush():68] Loading settings from C:\dev\EE569\Assignment2-LLM\wandb\settings
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_init.py:setup_run_log_directory():624] Logging user logs to C:\dev\EE569\Assignment2-LLM\wandb\run-20250201_122855-cwrgzp6e\logs\debug.log
+2025-02-01 12:28:55,962 INFO    MainThread:18412 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to C:\dev\EE569\Assignment2-LLM\wandb\run-20250201_122855-cwrgzp6e\logs\debug-internal.log
+2025-02-01 12:28:55,968 INFO    MainThread:18412 [wandb_init.py:init():743] calling init triggers
+2025-02-01 12:28:55,968 INFO    MainThread:18412 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'project': 'llmapps', 'entity': None, 'job_type': 'production', 'vector_store_artifact': 'tmbuot-university-of-tripoli/llmapps/vector_store:latest', 'chat_prompt_artifact': 'tmbuot-university-of-tripoli/llmapps/chat_prompt:latest', 'chat_temperature': 0.3, 'max_fallback_retries': 1, 'model_name': 'gpt-4o-mini', 'eval_model': 'gpt-4o-mini', 'eval_artifact': 'tmbuot-university-of-tripoli/llmapps/generated_examples:v0'}
+2025-02-01 12:28:55,968 INFO    MainThread:18412 [wandb_init.py:init():776] starting backend
+2025-02-01 12:28:56,459 INFO    MainThread:18412 [wandb_init.py:init():780] sending inform_init request
+2025-02-01 12:28:56,582 INFO    MainThread:18412 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-02-01 12:28:56,585 INFO    MainThread:18412 [wandb_init.py:init():795] backend started and connected
+2025-02-01 12:28:56,588 INFO    MainThread:18412 [wandb_init.py:init():888] updated telemetry
+2025-02-01 12:28:56,589 INFO    MainThread:18412 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-02-01 12:30:27,165 ERROR   MainThread:18412 [wandb_init.py:init():944] encountered error: Run initialization has timed out after 90.0 sec. Please try increasing the timeout with the `init_timeout` setting: `wandb.init(settings=wandb.Settings(init_timeout=120))`.
+2025-02-01 12:30:27,165 ERROR   MainThread:18412 [wandb_init.py:init():1454] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1444, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 950, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. Please try increasing the timeout with the `init_timeout` setting: `wandb.init(settings=wandb.Settings(init_timeout=120))`.
+2025-02-01 12:30:27,295 WARNING MsgRouterThr:18412 [router.py:message_loop():75] message_loop has been closed

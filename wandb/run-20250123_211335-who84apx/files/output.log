@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\app.py", line 123, in <module>
+    question.submit(
+TypeError: EventListener._setup.<locals>.event_trigger() got an unexpected keyword argument 'elem_id'

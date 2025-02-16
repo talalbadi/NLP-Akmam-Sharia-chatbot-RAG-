@@ -1,0 +1,67 @@
+* Running on local URL:  http://Localhost:8844
+
+Could not create share link. Please check your internet connection or our status page: https://status.gradio.app.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\wandb\apis\normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\apis\public\api.py", line 1214, in _artifact
+    artifact = wandb.Artifact._from_name(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\artifacts\artifact.py", line 268, in _from_name
+    raise ValueError(f"project '{project}' not found under entity '{entity}'")
+ValueError: project 'LLMTMB' not found under entity 'TMB'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\queueing.py", line 625, in process_events
+    response = await route_utils.call_process_api(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\route_utils.py", line 322, in call_process_api
+    output = await app.get_blocks().process_api(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\blocks.py", line 2042, in process_api
+    result = await self.call_function(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\blocks.py", line 1589, in call_function
+    prediction = await anyio.to_thread.run_sync(  # type: ignore
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 2461, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 962, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\gradio\utils.py", line 883, in wrapper
+    response = f(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\app.py", line 74, in __call__
+    self.vector_store = load_vector_store(
+                        ^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\chain.py", line 25, in load_vector_store
+    vector_store_artifact_dir = wandb_run.use_artifact(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 393, in wrapper_fn
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 383, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 3033, in use_artifact
+    artifact = public_api._artifact(type=type, name=name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\apis\normalize.py", line 71, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "C:\Python312\Lib\site-packages\wandb\apis\normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\apis\public\api.py", line 1214, in _artifact
+    artifact = wandb.Artifact._from_name(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\wandb\sdk\artifacts\artifact.py", line 268, in _from_name
+    raise ValueError(f"project '{project}' not found under entity '{entity}'")
+wandb.errors.errors.CommError: project 'LLMTMB' not found under entity 'TMB'

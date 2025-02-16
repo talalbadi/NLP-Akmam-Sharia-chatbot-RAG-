@@ -1,0 +1,5 @@
+Processed 5 'كتاب' batches.
+Ingesting batch 1/5...
+Total document sections: 311
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb_batched.py:82: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding_function = OpenAIEmbeddings(openai_api_key=api_key)

@@ -1,0 +1,17 @@
+{"time":"2025-02-16T17:07:50.7024134+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250216_170750-gwtefmvx\\logs\\debug-core.log"}
+{"time":"2025-02-16T17:07:50.9869167+02:00","level":"INFO","msg":"created new stream","id":"gwtefmvx"}
+{"time":"2025-02-16T17:07:50.9874272+02:00","level":"INFO","msg":"stream: started","id":"gwtefmvx"}
+{"time":"2025-02-16T17:07:50.9874272+02:00","level":"INFO","msg":"handler: started","stream_id":"gwtefmvx"}
+{"time":"2025-02-16T17:07:50.9874272+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"gwtefmvx"}
+{"time":"2025-02-16T17:07:50.9874272+02:00","level":"INFO","msg":"sender: started","stream_id":"gwtefmvx"}
+{"time":"2025-02-16T17:07:51.5411784+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T17:08:01.9813001+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T17:08:01.9818623+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T17:08:02.9857394+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vector_store","runtime_seconds":8.6848981,"subtasks":[{"desc":"chroma.sqlite3","runtime_seconds":7.6091825,"progress":"2.6MB/56.0MB"},{"desc":"b64ef7b8-e8ed-4a91-a620-e4935ba8a949/data_level0.bin","runtime_seconds":7.6091825,"progress":"2.4MB/6.0MB"}]},{"desc":"uploading artifact chat_prompt","runtime_seconds":1.0068692},{"desc":"updating run config","runtime_seconds":1.0011612}],"total_operations":3}}
+{"time":"2025-02-16T17:08:21.2377543+02:00","level":"INFO","msg":"stream: closing","id":"gwtefmvx"}
+{"time":"2025-02-16T17:08:21.2377543+02:00","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-02-16T17:09:18.0676858+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T17:09:18.4878408+02:00","level":"INFO","msg":"handler: closed","stream_id":"gwtefmvx"}
+{"time":"2025-02-16T17:09:18.4878408+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gwtefmvx"}
+{"time":"2025-02-16T17:09:18.4878408+02:00","level":"INFO","msg":"sender: closed","stream_id":"gwtefmvx"}
+{"time":"2025-02-16T17:09:18.4883617+02:00","level":"INFO","msg":"stream: closed","id":"gwtefmvx"}

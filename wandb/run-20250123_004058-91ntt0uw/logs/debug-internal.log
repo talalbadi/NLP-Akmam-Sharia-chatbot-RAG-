@@ -1,0 +1,11 @@
+{"time":"2025-01-23T00:40:58.7137845+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_004058-91ntt0uw\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:40:58.8339713+02:00","level":"INFO","msg":"created new stream","id":"91ntt0uw"}
+{"time":"2025-01-23T00:40:58.8345108+02:00","level":"INFO","msg":"stream: started","id":"91ntt0uw"}
+{"time":"2025-01-23T00:40:58.8345108+02:00","level":"INFO","msg":"handler: started","stream_id":"91ntt0uw"}
+{"time":"2025-01-23T00:40:58.8345108+02:00","level":"INFO","msg":"sender: started","stream_id":"91ntt0uw"}
+{"time":"2025-01-23T00:40:58.8345108+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"91ntt0uw"}
+{"time":"2025-01-23T00:40:59.2931285+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T00:41:16.6657926+02:00","level":"INFO","msg":"stream: closing","id":"91ntt0uw"}
+{"time":"2025-01-23T00:41:33.7856019+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.20.10.4:52026->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-01-23T00:41:36.8696595+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T00:41:36.8712906+02:00","level":"INFO","msg":"Stopped system monitor"}

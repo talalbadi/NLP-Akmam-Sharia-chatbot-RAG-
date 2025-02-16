@@ -1,0 +1,15 @@
+{"time":"2025-01-23T17:52:34.3151795+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_175233-lsrhqsdk\\logs\\debug-core.log"}
+{"time":"2025-01-23T17:52:34.4347939+02:00","level":"INFO","msg":"created new stream","id":"lsrhqsdk"}
+{"time":"2025-01-23T17:52:34.4347939+02:00","level":"INFO","msg":"stream: started","id":"lsrhqsdk"}
+{"time":"2025-01-23T17:52:34.4358466+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"lsrhqsdk"}
+{"time":"2025-01-23T17:52:34.4363787+02:00","level":"INFO","msg":"sender: started","stream_id":"lsrhqsdk"}
+{"time":"2025-01-23T17:52:34.437211+02:00","level":"INFO","msg":"handler: started","stream_id":"lsrhqsdk"}
+{"time":"2025-01-23T17:52:34.8694804+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T17:53:09.209649+02:00","level":"INFO","msg":"stream: closing","id":"lsrhqsdk"}
+{"time":"2025-01-23T17:53:09.2101635+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T17:53:09.2114166+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T17:53:10.0581509+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T17:53:10.4378562+02:00","level":"INFO","msg":"handler: closed","stream_id":"lsrhqsdk"}
+{"time":"2025-01-23T17:53:10.4378562+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lsrhqsdk"}
+{"time":"2025-01-23T17:53:10.4378562+02:00","level":"INFO","msg":"sender: closed","stream_id":"lsrhqsdk"}
+{"time":"2025-01-23T17:53:10.4384284+02:00","level":"INFO","msg":"stream: closed","id":"lsrhqsdk"}

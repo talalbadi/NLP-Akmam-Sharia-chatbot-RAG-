@@ -1,0 +1,62 @@
+Loaded 805 JSON documents.
+Token counts per document: [0, 0, 0, 158, 1408, 0, 588, 0, 72, 3577, 573, 0, 0, 0, 74, 1128, 303, 122, 2265, 9035, 0, 6686, 1926, 0, 559, 466, 119, 730, 502, 378, 364, 2140, 0, 1124, 1648, 1268, 614, 0, 402, 438, 337, 389, 979, 336, 562, 0, 845, 473, 117, 628, 0, 1136, 778, 778, 1032, 1903, 1838, 0, 150, 655, 354, 1248, 0, 372, 167, 184, 146, 321, 332, 1401, 619, 0, 619, 660, 292, 0, 1326, 1638, 0, 0, 61, 0, 301, 2623, 432, 179, 649, 0, 0, 2744, 5649, 5309, 0, 598, 111, 717, 0, 3057, 2694, 2114, 2387, 4636, 1689, 1715, 9744, 638, 0, 764, 3353, 3948, 2694, 1055, 3927, 2169, 0, 866, 5739, 1294, 1762, 0, 683, 0, 0, 578, 336, 821, 188, 942, 346, 0, 0, 923, 3100, 1675, 0, 0, 3457, 1513, 0, 908, 934, 0, 1272, 749, 0, 0, 3027, 2519, 2325, 868, 746, 1123, 0, 5725, 6383, 0, 1039, 0, 936, 2610, 0, 374, 0, 1877, 1589, 991, 1944, 0, 0, 437, 269, 1064, 0, 2381, 1766, 155, 1333, 290, 941, 1254, 0, 0, 824, 4624, 1759, 0, 0, 1830, 1137, 102, 0, 674, 539, 2926, 0, 1026, 638, 0, 807, 607, 0, 222, 519, 0, 797, 2553, 340, 0, 1865, 429, 693, 0, 949, 702, 856, 0, 468, 308, 0, 1675, 170, 240, 195, 1244, 0, 1202, 3200, 0, 168, 120, 3002, 0, 0, 866, 534, 61, 845, 649, 369, 319, 652, 0, 704, 307, 665, 404, 494, 233, 181, 1397, 782, 664, 429, 641, 0, 0, 223, 278, 199, 340, 487, 198, 187, 208, 1209, 0, 0, 54, 1162, 275, 527, 0, 702, 622, 549, 605, 112, 1942, 0, 616, 188, 250, 0, 947, 379, 752, 0, 1014, 273, 571, 0, 366, 281, 0, 405, 0, 333, 0, 648, 347, 2329, 0, 0, 0, 531, 2329, 4714, 0, 635, 3071, 0, 1691, 1365, 0, 0, 0, 174, 1300, 190, 0, 3988, 437, 1408, 3898, 17, 4769, 3186, 0, 7261, 3305, 0, 2292, 2019, 1547, 5056, 700, 19, 1453, 767, 1178, 13488, 562, 377, 4282, 2214, 0, 2639, 914, 2732, 699, 801, 0, 436, 760, 18, 753, 1485, 1107, 189, 0, 629, 754, 611, 1120, 0, 202, 912, 0, 948, 0, 834, 0, 1497, 648, 765, 0, 0, 763, 169, 0, 3801, 354, 1055, 1871, 4029, 131, 585, 878, 0, 858, 386, 408, 659, 968, 18, 618, 363, 1521, 271, 738, 0, 1697, 2087, 0, 0, 2126, 4104, 0, 569, 651, 360, 1769, 0, 789, 1083, 0, 473, 506, 1553, 682, 479, 470, 4519, 859, 0, 1243, 74, 739, 288, 2103, 1250, 5350, 5673, 1950, 619, 434, 0, 790, 1067, 0, 1565, 913, 232, 0, 0, 0, 68, 1740, 806, 1178, 0, 5123, 3281, 2370, 1240, 478, 702, 1289, 0, 685, 1185, 1592, 415, 8, 0, 559, 462, 1286, 424, 21, 0, 71, 0, 961, 1929, 9, 631, 1784, 1147, 281, 836, 0, 3553, 461, 236, 0, 775, 0, 769, 155, 273, 1297, 610, 1466, 0, 0, 48, 2123, 1953, 0, 1218, 778, 1389, 589, 665, 190, 472, 953, 0, 438, 434, 0, 452, 1013, 638, 1468, 0, 0, 346, 850, 1792, 0, 0, 736, 634, 387, 1146, 1403, 0, 4200, 1068, 1993, 0, 0, 778, 660, 301, 1049, 491, 797, 315, 682, 0, 3187, 229, 724, 1829, 0, 0, 738, 423, 448, 523, 217, 22, 6390, 5836, 1364, 1465, 1293, 0, 355, 352, 1080, 830, 744, 1029, 63, 0, 721, 664, 0, 131, 2433, 0, 1834, 1826, 295, 1018, 805, 790, 926, 0, 567, 1191, 287, 0, 0, 0, 656, 443, 3221, 1041, 572, 0, 209, 655, 229, 4316, 0, 1085, 408, 94, 2059, 0, 305, 496, 509, 396, 1121, 529, 0, 622, 4717, 1837, 0, 560, 400, 480, 1207, 0, 171, 0, 490, 294, 475, 1559, 688, 0, 4809, 2743, 4845, 1504, 0, 0, 290, 0, 1244, 493, 518, 558, 281, 958, 274, 486, 508, 0, 0, 909, 981, 479, 505, 967, 0, 935, 0, 930, 401, 0, 0, 1529, 208, 672, 0, 383, 218, 186, 213, 0, 0, 107, 0, 1163, 410, 549, 0, 384, 471, 402, 490, 277, 595, 0, 323, 653, 441, 0, 661, 624, 835, 0, 958, 859, 433, 617, 0, 0, 0, 2508, 981, 1851, 1675, 1742, 0, 795, 152, 1032, 1857, 2387, 228, 3036, 2123, 725, 828, 2250, 0, 0, 2238, 4108, 3092, 9002, 0, 516, 2331, 5836, 1716, 2821, 0, 0, 2080, 6008, 4260, 2564, 575, 4073, 0, 178, 612, 2415, 347, 1053, 631, 1342, 684, 731, 1637, 3469, 0, 0, 327, 368, 555, 524, 307, 458, 2161, 450, 723, 1019, 1091, 526, 0, 8301, 9294, 0, 0, 903, 1130, 166, 0, 435, 2188, 1081, 672, 2152, 997, 998, 296, 953, 291, 958, 507, 480, 0, 508, 309, 568, 212, 464, 0, 521, 3776, 383, 0, 0, 1377, 340, 521, 564, 820, 804, 915, 0, 497, 1229]
+Token counts sum: 774626
+Total document sections: 673
+Example document section content:
+الصلاة لغة: الدعاء [1] قال النووي: (الصلاة في اللغة الدعاء، وسميت الصلاة الشرعية صلاة؛ لاشتمالها عليه، هذا هو الصحيح، وبه قال الجمهور من أهل اللغة وغيرهم من أهل التحقيق). ((المجموع)) (3/2)، وينظر: ((المصباح المنير)) للفيومي (1/346)، ((تاج العروس)) للزبيدي (38/438). الصلاة اصطلاحا: التعبد لله تعالى بأقوال وأفعال مخصوصة، مفتتحة بالتكبير، مختتمة بالتسليم [2] ((كشاف القناع)) للبهوتي (1/221)، ((الشرح الممتع)) لابن عثيمين (2/5).
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:121: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding_function = OpenAIEmbeddings(openai_api_key=api_key)
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 247, in <module>
+    main()
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 228, in main
+    documents, vector_store = ingest_data(
+                              ^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 163, in ingest_data
+    vector_store = create_vector_store(split_documents, vector_store_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py", line 124, in create_vector_store
+    vector_store = Chroma.from_documents(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\vectorstores\chroma.py", line 887, in from_documents
+    return cls.from_texts(
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\vectorstores\chroma.py", line 843, in from_texts
+    chroma_collection.add_texts(
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\vectorstores\chroma.py", line 277, in add_texts
+    embeddings = self._embedding_function.embed_documents(texts)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\embeddings\openai.py", line 671, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\embeddings\openai.py", line 497, in _get_len_safe_embeddings
+    response = embed_with_retry(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_community\embeddings\openai.py", line 120, in embed_with_retry
+    return embeddings.client.create(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\resources\embeddings.py", line 124, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 960, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1049, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1098, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1049, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1098, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1064, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Request too large for text-embedding-ada-002 in organization org-TtOUE8cHsQ0oGNVFRX1ZolvG on tokens per min (TPM): Limit 1000000, Requested 1464580. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+[0m

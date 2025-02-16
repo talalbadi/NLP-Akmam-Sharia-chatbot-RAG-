@@ -1,0 +1,15 @@
+{"time":"2025-01-23T00:22:42.517412+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_002242-guiocadt\\logs\\debug-core.log"}
+{"time":"2025-01-23T00:22:42.6305974+02:00","level":"INFO","msg":"created new stream","id":"guiocadt"}
+{"time":"2025-01-23T00:22:42.6305974+02:00","level":"INFO","msg":"stream: started","id":"guiocadt"}
+{"time":"2025-01-23T00:22:42.6305974+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"guiocadt"}
+{"time":"2025-01-23T00:22:42.6305974+02:00","level":"INFO","msg":"sender: started","stream_id":"guiocadt"}
+{"time":"2025-01-23T00:22:42.6305974+02:00","level":"INFO","msg":"handler: started","stream_id":"guiocadt"}
+{"time":"2025-01-23T00:22:43.2896593+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T00:23:31.7067153+02:00","level":"INFO","msg":"stream: closing","id":"guiocadt"}
+{"time":"2025-01-23T00:23:31.7069322+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T00:23:31.7079771+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T00:23:32.6449097+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T00:23:32.9986585+02:00","level":"INFO","msg":"handler: closed","stream_id":"guiocadt"}
+{"time":"2025-01-23T00:23:32.9986585+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"guiocadt"}
+{"time":"2025-01-23T00:23:32.9986585+02:00","level":"INFO","msg":"sender: closed","stream_id":"guiocadt"}
+{"time":"2025-01-23T00:23:32.9991682+02:00","level":"INFO","msg":"stream: closed","id":"guiocadt"}

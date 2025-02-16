@@ -1,0 +1,15 @@
+{"time":"2025-01-30T22:08:55.1676609+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250130_220854-vdyf99e2\\logs\\debug-core.log"}
+{"time":"2025-01-30T22:08:55.2851681+02:00","level":"INFO","msg":"created new stream","id":"vdyf99e2"}
+{"time":"2025-01-30T22:08:55.2851681+02:00","level":"INFO","msg":"stream: started","id":"vdyf99e2"}
+{"time":"2025-01-30T22:08:55.2868228+02:00","level":"INFO","msg":"sender: started","stream_id":"vdyf99e2"}
+{"time":"2025-01-30T22:08:55.2868228+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"vdyf99e2"}
+{"time":"2025-01-30T22:08:55.2873389+02:00","level":"INFO","msg":"handler: started","stream_id":"vdyf99e2"}
+{"time":"2025-01-30T22:08:55.7979532+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-30T23:20:46.7755198+02:00","level":"INFO","msg":"stream: closing","id":"vdyf99e2"}
+{"time":"2025-01-30T23:20:46.7755198+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-30T23:20:46.7765396+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-30T23:20:47.5193507+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-30T23:20:47.9645003+02:00","level":"INFO","msg":"handler: closed","stream_id":"vdyf99e2"}
+{"time":"2025-01-30T23:20:47.9645003+02:00","level":"INFO","msg":"sender: closed","stream_id":"vdyf99e2"}
+{"time":"2025-01-30T23:20:47.9645003+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vdyf99e2"}
+{"time":"2025-01-30T23:20:47.9650321+02:00","level":"INFO","msg":"stream: closed","id":"vdyf99e2"}

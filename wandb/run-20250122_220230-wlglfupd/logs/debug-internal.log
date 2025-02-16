@@ -1,0 +1,15 @@
+{"time":"2025-01-22T22:02:30.9401085+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250122_220230-wlglfupd\\logs\\debug-core.log"}
+{"time":"2025-01-22T22:02:31.0612781+02:00","level":"INFO","msg":"created new stream","id":"wlglfupd"}
+{"time":"2025-01-22T22:02:31.0612781+02:00","level":"INFO","msg":"stream: started","id":"wlglfupd"}
+{"time":"2025-01-22T22:02:31.0634594+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"wlglfupd"}
+{"time":"2025-01-22T22:02:31.0639699+02:00","level":"INFO","msg":"sender: started","stream_id":"wlglfupd"}
+{"time":"2025-01-22T22:02:31.0649137+02:00","level":"INFO","msg":"handler: started","stream_id":"wlglfupd"}
+{"time":"2025-01-22T22:02:31.8264875+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T22:02:33.7263764+02:00","level":"INFO","msg":"stream: closing","id":"wlglfupd"}
+{"time":"2025-01-22T22:02:33.7263764+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T22:02:33.7270528+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T22:02:34.5167175+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T22:02:34.9812593+02:00","level":"INFO","msg":"handler: closed","stream_id":"wlglfupd"}
+{"time":"2025-01-22T22:02:34.9817819+02:00","level":"INFO","msg":"sender: closed","stream_id":"wlglfupd"}
+{"time":"2025-01-22T22:02:34.9817819+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wlglfupd"}
+{"time":"2025-01-22T22:02:34.9823595+02:00","level":"INFO","msg":"stream: closed","id":"wlglfupd"}

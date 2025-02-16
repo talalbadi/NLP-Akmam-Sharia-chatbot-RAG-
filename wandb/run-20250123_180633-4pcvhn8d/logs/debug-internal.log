@@ -1,0 +1,15 @@
+{"time":"2025-01-23T18:06:33.5676414+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250123_180633-4pcvhn8d\\logs\\debug-core.log"}
+{"time":"2025-01-23T18:06:33.6854099+02:00","level":"INFO","msg":"created new stream","id":"4pcvhn8d"}
+{"time":"2025-01-23T18:06:33.6854099+02:00","level":"INFO","msg":"stream: started","id":"4pcvhn8d"}
+{"time":"2025-01-23T18:06:33.6854099+02:00","level":"INFO","msg":"sender: started","stream_id":"4pcvhn8d"}
+{"time":"2025-01-23T18:06:33.6854099+02:00","level":"INFO","msg":"handler: started","stream_id":"4pcvhn8d"}
+{"time":"2025-01-23T18:06:33.6854099+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"4pcvhn8d"}
+{"time":"2025-01-23T18:06:34.1348161+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T18:07:07.46564+02:00","level":"INFO","msg":"stream: closing","id":"4pcvhn8d"}
+{"time":"2025-01-23T18:07:07.4663572+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T18:07:07.4680834+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T18:07:08.311651+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T18:07:08.7632744+02:00","level":"INFO","msg":"handler: closed","stream_id":"4pcvhn8d"}
+{"time":"2025-01-23T18:07:08.7632744+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4pcvhn8d"}
+{"time":"2025-01-23T18:07:08.764104+02:00","level":"INFO","msg":"sender: closed","stream_id":"4pcvhn8d"}
+{"time":"2025-01-23T18:07:08.764316+02:00","level":"INFO","msg":"stream: closed","id":"4pcvhn8d"}

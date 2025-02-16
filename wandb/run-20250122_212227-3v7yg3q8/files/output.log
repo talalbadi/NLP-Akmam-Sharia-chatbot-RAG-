@@ -1,0 +1,8 @@
+Loaded 2 JSON documents.
+Token counts per document: [3547916, 13593735]
+Total document sections: 36927
+Maximum tokens in a section: 654
+Example document section content:
+[{"title": "\u0627\u0644\u0636\u0627\u0628\u0637 \u0641\u064a \u062f\u0631\u062c\u0629 \u062e\u0637\u0648\u0631\u0629 \u0627\u0644\u0635\u0648\u0645 \u0639\u0644\u0649 \u0645\u0631\u064a\u0636 \u0627\u0644\u0633\u0643\u0631\u064a", "question": "\u0646\u062d\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0623\u0637\u0628\u0627\u0621 \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u064a\u0646 \u0641\u064a \u0639\u0644\u0627\u062c \u0645\u0631\u0636 \u0627\u0644\u0633\u0643\u0631\u064a\u060c \u0648\u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0645\u062e\u062a\u0635\u064a\u0646 \u0648\u062a\u0642\u0633\u064a\u0645 \u062f\u0631\u062c\u0629 \u0627\u0644\u062e\u0637\u0648\u0631\u0629 \u0644\u0645\u0631\u064a\u0636 \u0627\u0644\u0633\u0643\u0631\u064a \u0639\u0646\u062f \u0635\u064a\u0627\u0645\u0647 \u062d\u0633\u0628 \u0639\u062f\u0629 \u0639\u0648\u0627\u0645\u0644\u061b \u0645\u0646\u0647\u0627
+c:\dev\EE569\Assignment2-LLM\MYLLM\vectordatabase\vectordb.py:113: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding_function = OpenAIEmbeddings(openai_api_key=api_key)
