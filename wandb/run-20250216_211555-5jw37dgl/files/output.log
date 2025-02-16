@@ -1,0 +1,8 @@
+* Running on local URL:  http://localhost:8844
+
+Could not create share link. Please check your internet connection or our status page: https://status.gradio.app.
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 59.92MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.7
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Keyboard interruption in main thread... closing server.

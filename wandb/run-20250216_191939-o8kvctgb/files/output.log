@@ -1,0 +1,107 @@
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 59.92MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.6
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+  0%|                                                                                       | 0/36 [00:00<?, ?it/s]c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:26: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  result = qa_chain({"question": query, "chat_history": []})
+ 83%|█████████████████████████████████████████████████████████████████             | 30/36 [08:00<01:36, 16.03s/it]
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py", line 144, in main
+    eval_dataset = generate_answers(eval_dataset, qa_chain)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py", line 26, in generate_answers
+    result = qa_chain({"question": query, "chat_history": []})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_core\_api\deprecation.py", line 182, in warning_emitting_wrapper
+    return wrapped(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain\chains\base.py", line 389, in __call__
+    return self.invoke(
+           ^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain\chains\conversational_retrieval\base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain\chains\conversational_retrieval\base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_core\retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_core\vectorstores\base.py", line 1083, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_chroma\vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_chroma\vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_openai\embeddings\base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_openai\embeddings\base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\langchain_openai\embeddings\base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\resources\embeddings.py", line 124, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 960, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TMB\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 996, in _request
+    response = self._client.send(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\http11.py", line 136, in handle_request
+    raise exc
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_backends\sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\ssl.py", line 1234, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\ssl.py", line 1107, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

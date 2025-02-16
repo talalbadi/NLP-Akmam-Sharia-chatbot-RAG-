@@ -1,0 +1,16 @@
+{"time":"2025-02-16T20:24:52.0410614+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250216_202451-4wkdn6is\\logs\\debug-core.log"}
+{"time":"2025-02-16T20:24:52.9571674+02:00","level":"INFO","msg":"created new stream","id":"4wkdn6is"}
+{"time":"2025-02-16T20:24:52.9578215+02:00","level":"INFO","msg":"stream: started","id":"4wkdn6is"}
+{"time":"2025-02-16T20:24:52.9582555+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"4wkdn6is"}
+{"time":"2025-02-16T20:24:52.9587689+02:00","level":"INFO","msg":"handler: started","stream_id":"4wkdn6is"}
+{"time":"2025-02-16T20:24:52.9587689+02:00","level":"INFO","msg":"sender: started","stream_id":"4wkdn6is"}
+{"time":"2025-02-16T20:24:53.5945184+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T20:35:55.1488059+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/4wkdn6is/file_stream\": unexpected EOF"}
+{"time":"2025-02-16T20:49:40.7639011+02:00","level":"INFO","msg":"stream: closing","id":"4wkdn6is"}
+{"time":"2025-02-16T20:49:40.7657447+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T20:49:40.7690595+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T20:49:41.9354694+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T20:49:42.3815214+02:00","level":"INFO","msg":"handler: closed","stream_id":"4wkdn6is"}
+{"time":"2025-02-16T20:49:42.3815214+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4wkdn6is"}
+{"time":"2025-02-16T20:49:42.3815214+02:00","level":"INFO","msg":"sender: closed","stream_id":"4wkdn6is"}
+{"time":"2025-02-16T20:49:42.3815214+02:00","level":"INFO","msg":"stream: closed","id":"4wkdn6is"}

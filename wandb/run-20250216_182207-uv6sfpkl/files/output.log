@@ -1,0 +1,83 @@
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 59.92MB. 6 files...
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+[34m[1mwandb[0m:   6 of 6 files downloaded.
+Done. 0:0:38.5
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+  0%|                                                                       | 0/36 [00:00<?, ?it/s]C:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:24: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  result = qa_chain({"question": query, "chat_history": []})
+ 36%|██████████████████████▍                                       | 13/36 [00:38<00:58,  2.55s/it]c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+ 39%|████████████████████████                                      | 14/36 [00:41<00:57,  2.62s/it]c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+100%|██████████████████████████████████████████████████████████████| 36/36 [01:48<00:00,  3.02s/it]
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")
+c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:31: SyntaxWarning: invalid escape sequence '\d'
+  eval_prompt = load_eval_prompt(f"C:\dev\EE569\Assignment2-LLM\prompts.json")

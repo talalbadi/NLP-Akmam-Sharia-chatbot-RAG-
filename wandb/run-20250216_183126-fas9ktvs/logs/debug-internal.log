@@ -1,0 +1,9 @@
+{"time":"2025-02-16T18:31:26.4497498+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250216_183126-fas9ktvs\\logs\\debug-core.log"}
+{"time":"2025-02-16T18:31:26.5603873+02:00","level":"INFO","msg":"created new stream","id":"fas9ktvs"}
+{"time":"2025-02-16T18:31:26.5603873+02:00","level":"INFO","msg":"stream: started","id":"fas9ktvs"}
+{"time":"2025-02-16T18:31:26.5603873+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"fas9ktvs"}
+{"time":"2025-02-16T18:31:26.5603873+02:00","level":"INFO","msg":"handler: started","stream_id":"fas9ktvs"}
+{"time":"2025-02-16T18:31:26.5603873+02:00","level":"INFO","msg":"sender: started","stream_id":"fas9ktvs"}
+{"time":"2025-02-16T18:31:27.209622+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T18:31:31.1170044+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T18:31:42.3607845+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}

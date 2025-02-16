@@ -1,0 +1,20 @@
+{
+    "EftaaQAT": {
+        "total_questions": 36,
+        "correct_answers": 2,
+        "incorrect_answers": 10,
+        "acceptable_unknown": 23
+    },
+    "EftaaQAT_alternative_questions": {
+        "total_questions": 46,
+        "correct_answers": 7,
+        "incorrect_answers": 17,
+        "acceptable_unknown": 22
+    },
+    "dorar_alternative_questions": {
+        "total_questions": 60,
+        "correct_answers": 31,
+        "incorrect_answers": 22,
+        "acceptable_unknown": 7
+    }
+}

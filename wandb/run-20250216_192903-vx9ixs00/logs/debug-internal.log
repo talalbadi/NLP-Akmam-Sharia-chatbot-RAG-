@@ -1,0 +1,22 @@
+{"time":"2025-02-16T19:29:03.4570365+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250216_192903-vx9ixs00\\logs\\debug-core.log"}
+{"time":"2025-02-16T19:29:03.5694907+02:00","level":"INFO","msg":"created new stream","id":"vx9ixs00"}
+{"time":"2025-02-16T19:29:03.5694907+02:00","level":"INFO","msg":"stream: started","id":"vx9ixs00"}
+{"time":"2025-02-16T19:29:03.5694907+02:00","level":"INFO","msg":"handler: started","stream_id":"vx9ixs00"}
+{"time":"2025-02-16T19:29:03.5694907+02:00","level":"INFO","msg":"sender: started","stream_id":"vx9ixs00"}
+{"time":"2025-02-16T19:29:03.5694907+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"vx9ixs00"}
+{"time":"2025-02-16T19:29:04.0100258+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:29:06.1411752+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:29:09.4832006+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:32:56.1713064+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:32:59.6058775+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:37:57.9187585+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:38:01.5214577+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:44:53.0737088+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T19:44:53.0745137+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T19:44:54.0701749+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T19:44:54.086726+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 19-20","runtime_seconds":0.0165511}],"total_operations":1}}
+{"time":"2025-02-16T19:44:55.6034658+02:00","level":"INFO","msg":"stream: closing","id":"vx9ixs00"}
+{"time":"2025-02-16T19:44:55.6034658+02:00","level":"INFO","msg":"handler: closed","stream_id":"vx9ixs00"}
+{"time":"2025-02-16T19:44:55.6034658+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vx9ixs00"}
+{"time":"2025-02-16T19:44:55.6034658+02:00","level":"INFO","msg":"sender: closed","stream_id":"vx9ixs00"}
+{"time":"2025-02-16T19:44:55.6039764+02:00","level":"INFO","msg":"stream: closed","id":"vx9ixs00"}

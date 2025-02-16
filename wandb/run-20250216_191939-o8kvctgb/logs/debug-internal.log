@@ -1,0 +1,38 @@
+{"time":"2025-02-16T19:19:40.2489159+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250216_191939-o8kvctgb\\logs\\debug-core.log"}
+{"time":"2025-02-16T19:19:40.3601293+02:00","level":"INFO","msg":"created new stream","id":"o8kvctgb"}
+{"time":"2025-02-16T19:19:40.3601293+02:00","level":"INFO","msg":"stream: started","id":"o8kvctgb"}
+{"time":"2025-02-16T19:19:40.3601293+02:00","level":"INFO","msg":"handler: started","stream_id":"o8kvctgb"}
+{"time":"2025-02-16T19:19:40.3601293+02:00","level":"INFO","msg":"sender: started","stream_id":"o8kvctgb"}
+{"time":"2025-02-16T19:19:40.3601293+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"o8kvctgb"}
+{"time":"2025-02-16T19:19:49.6466782+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:20:05.9621616+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:20:13.9903553+02:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-02-16T19:21:58.9442337+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:00.9898235+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:04.9173743+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": write tcp 192.168.1.15:63770->35.186.228.49:443: wsasend: An established connection was aborted by the software in your host machine."}
+{"time":"2025-02-16T19:22:05.3180366+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:07.2874856+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:11.5592369+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:13.8042293+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:20.3651028+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:31.0568511+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:22:36.9912333+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:23:03.6699679+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:23:09.6993314+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-02-16T19:24:03.6728391+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:24:09.7050331+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:25:03.6767556+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:25:09.7111656+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:26:03.6800232+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:26:10.8277544+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:28:11.3271591+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:28:13.4964777+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-16T19:28:15.4290662+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T19:28:15.4296783+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T19:28:16.4432599+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":5.1187817,"error_status":"retrying: Post \"https://api.wandb.ai/files/tmbuot-university-of-tripoli/llmapps/o8kvctgb/file_stream\": dial tcp: lookup api.wandb.ai: no such host"},{"desc":"updating run config","runtime_seconds":1.014699}],"total_operations":2}}
+{"time":"2025-02-16T19:28:22.1212412+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T19:28:23.4887103+02:00","level":"INFO","msg":"stream: closing","id":"o8kvctgb"}
+{"time":"2025-02-16T19:28:23.4887103+02:00","level":"INFO","msg":"handler: closed","stream_id":"o8kvctgb"}
+{"time":"2025-02-16T19:28:23.4887103+02:00","level":"INFO","msg":"sender: closed","stream_id":"o8kvctgb"}
+{"time":"2025-02-16T19:28:23.4887103+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"o8kvctgb"}
+{"time":"2025-02-16T19:28:23.4892146+02:00","level":"INFO","msg":"stream: closed","id":"o8kvctgb"}

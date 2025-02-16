@@ -1,0 +1,38 @@
+[34m[1mwandb[0m: Downloading large artifact vector_store:latest, 59.92MB. 6 files...
+[34m[1mwandb[0m:   6 of 6 files downloaded.  
+Done. 0:0:0.4
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+  0%|                                                                       | 0/36 [00:00<?, ?it/s]c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py:26: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  result = qa_chain({"question": query, "chat_history": []})
+100%|██████████████████████████████████████████████████████████████| 36/36 [02:02<00:00,  3.41s/it]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'expected_answer'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py", line 147, in main
+    results[source] = evaluate_answers(eval_dataset, source)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\dev\EE569\Assignment2-LLM\LLM\evaluation.py", line 70, in evaluate_answers
+    "answer": eval_dataset.loc[i, "expected_answer"],
+              ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\pandas\core\indexing.py", line 1183, in __getitem__
+    return self.obj._get_value(*key, takeable=self._takeable)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\pandas\core\frame.py", line 4214, in _get_value
+    series = self._get_item_cache(col)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\pandas\core\frame.py", line 4638, in _get_item_cache
+    loc = self.columns.get_loc(item)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'expected_answer'

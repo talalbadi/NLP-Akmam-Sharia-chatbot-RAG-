@@ -1,0 +1,7 @@
+{"time":"2025-02-16T21:04:04.3168253+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"C:\\dev\\EE569\\Assignment2-LLM\\wandb\\run-20250216_210403-l8nm9v32\\logs\\debug-core.log"}
+{"time":"2025-02-16T21:04:04.4317703+02:00","level":"INFO","msg":"created new stream","id":"l8nm9v32"}
+{"time":"2025-02-16T21:04:04.4317703+02:00","level":"INFO","msg":"stream: started","id":"l8nm9v32"}
+{"time":"2025-02-16T21:04:04.4317703+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"l8nm9v32"}
+{"time":"2025-02-16T21:04:04.4317703+02:00","level":"INFO","msg":"handler: started","stream_id":"l8nm9v32"}
+{"time":"2025-02-16T21:04:04.4317703+02:00","level":"INFO","msg":"sender: started","stream_id":"l8nm9v32"}
+{"time":"2025-02-16T21:04:04.9227438+02:00","level":"INFO","msg":"Starting system monitor"}
